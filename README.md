@@ -1,4 +1,5 @@
 # Glosario Informático
+![glosario](img/Glosario.jpg)
 
 ## 1. [IP (Internet Protocol)](ip.md)
 
