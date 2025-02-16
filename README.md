@@ -1,41 +1,41 @@
 # Glosario Informático
 
-## 1. [IP (Internet Protocol)]()
+## 1. [IP (Internet Protocol)](ip.md)
 
-## 2. [Dominio]()
+## 2. [Dominio](dominio.md)
 
-## 3. [URL (Uniform Resource Locator)]()
+## 3. [URL (Uniform Resource Locator)](url.md)
 
-## 4. [Puerto]()
+## 4. [Puerto](puerto.md)
 
-## 5. [Servicio de Directorio]()
+## 5. [Servicio de Directorio](servicio_directorio.md)
 
-## 6. [OpenLDAP]()
+## 6. [OpenLDAP](ldap.md)
 
-## 7. [Active Directory]()
+## 7. [Active Directory](active.md)
 
-## 8. [Diferencia entre HTTP y HTTPS]()
+## 8. [Diferencia entre HTTP y HTTPS](http.md)
 
-## 9. [Servicio DNS (Domain Name System)]()
+## 9. [Servicio DNS (Domain Name System)](dns.md)
 
-## 10. [Servicio Web (Apache, Nginx)]()
+## 10. [Servicio Web (Apache, Nginx)](servicio.md)
 
-## 11. [Protocolo]()
+## 11. [Protocolo](protocolo.md)
 
-## 12. [RDP (Remote Desktop Protocol)]()
+## 12. [RDP (Remote Desktop Protocol)](rdp.md)
 
-## 13. [SSH (Secure Shell)]()
+## 13. [SSH (Secure Shell)](ssh.md)
 
-## 14. [Cloud (Computación en la Nube)]()
+## 14. [Cloud (Computación en la Nube)](cloud.md)
 
-## 15. [AWS (Amazon Web Services)]()
+## 15. [AWS (Amazon Web Services)](aws.md)
 
-## 16. [Proxmox]()
+## 16. [Proxmox](proxmox.md)
 
-## 17. [Google Cloud]()
+## 17. [Google Cloud](google_cloud.md)
 
-## 18. [Azure]()
+## 18. [Azure](azule.md)
 
-## 19. [Administrador]()
+## 19. [Administrador](administrador.md)
 
-## 20. [DevOps]()
+## 20. [DevOps](devops.md)
