@@ -11,7 +11,7 @@
 
 ## 5. [Servicio de Directorio](servicio_directorio.md)
 
-## 6. [OpenLDAP](ldap.md)
+## 6. [OpenLDAP](openldap.md)
 
 ## 7. [Active Directory](active.md)
 
