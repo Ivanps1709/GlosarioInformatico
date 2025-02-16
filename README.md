@@ -35,7 +35,7 @@
 
 ## 17. [Google Cloud](google_cloud.md)
 
-## 18. [Azure](azule.md)
+## 18. [Azure](azure.md)
 
 ## 19. [Administrador](administrador.md)
 
